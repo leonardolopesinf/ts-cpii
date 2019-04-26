@@ -4,8 +4,6 @@
 ## Conteúdo do Repositório:
 + Aplicações desenvolvidas em sala de aula.
 + Conteúdo didático complementar.
-+ Informações referentes aos responsáveis pelo curso.
-+ Lista de alunos incritos.
 
 ## Objetivos do Curso:
 + Apresentar um superset do JavaScript a alunos do ensino médio.
