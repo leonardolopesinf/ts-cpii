@@ -17,11 +17,11 @@
 
 ## Docente:
 + Nome: Leonardo Henrique Santos Lopes
-+ Turma: IN303 ( 3º ano do Ensino Médio Integrado Desenvolvimento de Sistemas)  
++ Turma: IN303 ( 3º ano do Ensino Médio Integrado Desenvolvimento de Sistemas )  
 + Perfil: https://github.com/leonardolopesinf
 + Contato: leonardolopesinf@gmail.com 
 
-## :
+## ---:
 + Nome: 
 + Cargo:
 + Perfil:
