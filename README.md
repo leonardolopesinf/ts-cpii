@@ -3,20 +3,29 @@
 
 ## Conteúdo do Repositório:
 + Aplicações desenvolvidas em sala de aula.
-+ Conteúdos didáticos complementares.
++ Conteúdo didático complementar.
 + Informações referentes aos responsáveis pelo curso.
 + Lista de alunos incritos.
 
 ## Objetivos do Curso:
 + Apresentar um superset do JavaScript a alunos do ensino médio.
-+ Praticar a linguaguem de programação orientada a objeto.
-+ Preparar os estudantes com recursos complementares ao 
++ Praticar a linguaguem de programação orientada a objeto. 
 
 ## Requisitos:
 + HTML
 + JavaScript
 
+## Docente:
++ Nome: Leonardo Henrique Santos Lopes
++ Turma: IN303 ( 3º ano do Ensino Médio Integrado Desenvolvimento de Sistemas)  
++ Perfil: https://github.com/leonardolopesinf
++ Contato: leonardolopesinf@gmail.com 
+
+## :
++ Nome: 
++ Cargo:
++ Perfil:
++ Contato:
+
 ## Local de Realização:
 ### Colégio Pedro II - Caxias 
-
-## Responsáveis:
