@@ -3,8 +3,9 @@
 
 ## Conteúdo:
 + Aplicações desenvolvidas em sala de aula.
-
++ Conteúdos didáticos adicionais.
 + Informações referentes aos responsáveis pelo curso.
 + Lista de alunos incritos.
+
 
  
