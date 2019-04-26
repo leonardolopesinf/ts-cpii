@@ -19,11 +19,5 @@
 + Perfil: https://github.com/leonardolopesinf
 + Contato: leonardolopesinf@gmail.com 
 
-## ---:
-+ Nome: 
-+ Cargo:
-+ Perfil:
-+ Contato:
-
 ## Local de Realização:
 ### Colégio Pedro II - Caxias 
