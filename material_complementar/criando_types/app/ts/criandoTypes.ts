@@ -4,9 +4,9 @@
             Utilizaremos da seguinte sintaxe: type nomeDaVariavel = tipos que pode receber...
                 Para indicarmos os tipos que nosso Type pode receber podemos usar um Union Type.*/
 
-/*Para praticar o uso de Types vamos criar 2 types.
+/*Para praticar o uso de Types vamos criar 2 Types.
     O Type "letraOuNumero" poderá receber valores do tipo string ou do tipo number.
-        Já o Type numeroOuData poderá receber valores do tipo number ou do tipo Date.*/                
+        Já o Type "numeroOuData" poderá receber valores do tipo number ou do tipo Date.*/                
 
 type letraOuNumero = string | number;
 type numeroOuData = number | Date;
