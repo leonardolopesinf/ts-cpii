@@ -1,6 +1,6 @@
 /*Agora vamos aprender a criar Types.
     Types como seu próprio nome diz são tipos.
-        Para criar criar tipos vamos o "type" como uma especie de "var".
+        Para criar criar tipos vamos usar o "type" como uma especie de "var".
             Utilizaremos da seguinte sintaxe: type nomeDaVariavel = tipos que pode receber...
                 Para indicarmos os tipos que nosso Type pode receber podemos usar um Union Type.*/
 
