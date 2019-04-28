@@ -1,0 +1,10 @@
+var x;
+x = 3;
+console.log(x);
+x = 'Agora x eh uma string!';
+console.log(x);
+var y;
+y = 28042019;
+console.log(y);
+y = new Date();
+console.log(y);
