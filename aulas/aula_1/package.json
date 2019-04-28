@@ -1,0 +1,20 @@
+{
+  "name": "aula_1",
+  "version": "1.0.0",
+  "description": "aula 1 - 27/04/2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "keywords": [
+    "aula",
+    "1"
+  ],
+  "author": "Leonardo Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.4.5"
+  }
+}
