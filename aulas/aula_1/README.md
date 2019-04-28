@@ -9,7 +9,7 @@
 
 + Configuração do `tsconfig.json`.
 
-+ Iniciação do compilador TypeScript
++ Iniciação do compilador TypeScript.
 
 + Encapsulamento: variaveis privadas.
 
