@@ -16,8 +16,8 @@
 ## Docente:
 + Nome: Leonardo Henrique Santos Lopes
 + Turma: IN303 ( 3º ano do Ensino Médio Integrado Desenvolvimento de Sistemas )  
-+ Perfil: https://github.com/leonardolopesinf
 + Contato: leonardolopesinf@gmail.com 
 
 ## Local de Realização:
-### Colégio Pedro II - Caxias 
+
+Colégio Pedro II - Caxias 
