@@ -1,5 +1,6 @@
 # Curso de TypeScript Colégio Pedro II - Caxias
-### Repósitorio designado a informações e material didático referente ao curso.
+
+Repósitorio designado a informações e material didático referente ao curso.
 
 ## Conteúdo do Repositório:
 + Aplicações desenvolvidas em sala de aula.
