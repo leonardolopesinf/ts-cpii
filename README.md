@@ -1,5 +1,6 @@
 # Curso de TypeScript Colégio Pedro II - Caxias
-### Repósitorio designado a informações e material didático referente ao curso.
+
+Repósitorio designado a informações e material didático referente ao curso.
 
 ## Conteúdo do Repositório:
 + Aplicações desenvolvidas em sala de aula.
@@ -16,8 +17,8 @@
 ## Docente:
 + Nome: Leonardo Henrique Santos Lopes
 + Turma: IN303 ( 3º ano do Ensino Médio Integrado Desenvolvimento de Sistemas )  
-+ Perfil: https://github.com/leonardolopesinf
 + Contato: leonardolopesinf@gmail.com 
 
 ## Local de Realização:
-### Colégio Pedro II - Caxias 
+
+Colégio Pedro II - Caxias 

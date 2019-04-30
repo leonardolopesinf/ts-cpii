@@ -1,11 +1,10 @@
 # Criando Aplicação TypeScript
-### Iniciando uma aplicação TypeScript utilizando o Node.
 
-
+Iniciando uma aplicação TypeScript utilizando o Node.
 
 ## Requisitos:
 
-#### O TypeScript tem como requisito o pacote do Node que pode ser baixado [aqui](https://nodejs.org/en/).
+O TypeScript tem como requisito o pacote do Node que pode ser baixado [aqui](https://nodejs.org/en/).
 
 
 
@@ -13,11 +12,11 @@
 
 ### Chegando na pasta do projeto:
 
-#### Primeiramente criaremos uma pasta onde será armazenado o projeto; lembrando que a mesma não pode ter caracteres especiais no nome, ou se chamar "typescript".
+Primeiramente criaremos uma pasta onde será armazenado o projeto; lembrando que a mesma não pode ter caracteres especiais no nome, ou se chamar "typescript".
 
-#### Após a criação da pasta, precisaremos abrir o "cmd".
+Após a criação da pasta, precisaremos abrir o "cmd".
 
-#### Então vamos usar o comando `cd` para mudarmos o diretório atual para chegar até a pasta da nossa aplicação. Usaremos como exemplo o seguinte diretório: `C:\Users\Leo\Desktop\projeto`. Neste caso utilizaremos os seguintes comandos para chegar na pasta:
+Então vamos usar o comando `cd` para mudarmos o diretório atual para chegar até a pasta da nossa aplicação. Usaremos como exemplo o seguinte diretório: `C:\Users\Leo\Desktop\projeto`. Neste caso utilizaremos os seguintes comandos para chegar na pasta:
 
 ```
 cd Users            // Troca o repositório de C:\ para Users.
@@ -26,19 +25,19 @@ cd Desktop        // Troca o repositório de Leo para Desktop.
 cd projeto       // Troca o repositório de Desktop para projeto.
 ```
 
-##### Obs: Sempre verificar o diretório atual indicado pelo próprio cmd, logo que o mesmo é iniciado.
+> Obs: Sempre verificar o diretório atual indicado pelo próprio cmd, logo que o mesmo é iniciado.
 
 ---
 
 ### Configurando Servidor:
 
-#### Já dentro da pasta criaremos nosso servidor Node, onde poderemos instalar o TypeScript, a partir da ferramenta de gerenciamento do Node, o Node Package Manager (npm):  
+Já dentro da pasta criaremos nosso servidor Node, onde poderemos instalar o TypeScript, a partir da ferramenta de gerenciamento do Node, o Node Package Manager (npm):  
 
 ``` 
 npm init
 ```
 
-#### Após a execução do comando `npm init` o Node irá pedir as configurações iniciais para o servidor:
+Após a execução do comando `npm init` o Node irá pedir as configurações iniciais para o servidor:
 
 ```
 package name: (projeto)        // Nome do seu servidor; lembrando que não pode conter caracteres especiais.
@@ -52,9 +51,9 @@ author:                 // Autor do servidor.
 license: (ISC)         // Licença usada pelo servidor.
 ```
 
-#### Obs: Dentro dos parênteses estão as configurações padrões do servidor, ou seja, se nada for informado em um determinado campo ele receberá a configuração indicada dentro dos parênteses.
+> Obs: Dentro dos parênteses estão as configurações padrões do servidor, ou seja, se nada for informado em um determinado campo ele receberá a configuração indicada dentro dos parênteses.
 
-#### Usaremos apenas de algumas configurações, aquelas que não formos usar apenas iremos deixar em branco.
+Usaremos apenas de algumas configurações, aquelas que não formos usar apenas iremos deixar em branco.
 
 ```
 package name: (projeto)        // Fica a seu critério.
@@ -68,7 +67,7 @@ author:                 // Seu nome.
 license: (ISC)         // Em branco, utilizaremos da licensa padrão do Node.
 ```
 
-#### Por fim o Node irá pedir para confirmarmos as configurações e basta apertar "Enter" ou digitar "yes" para confirmar os dados. Feito isso o servidor estará criado e configurado.
+Por fim o Node irá pedir para confirmarmos as configurações e basta apertar "Enter" ou digitar "yes" para confirmar os dados. Feito isso o servidor estará criado e configurado.
 
 
 
@@ -76,7 +75,7 @@ license: (ISC)         // Em branco, utilizaremos da licensa padrão do Node.
 
 ### Instalação:
 
-#### Utilizaremos novamente do cmd, já dentro do diretório do nosso projeto, então digitaremos o seguinte comando para a instalação do TypeScript:
+Utilizaremos novamente do cmd, já dentro do diretório do nosso projeto, então digitaremos o seguinte comando para a instalação do TypeScript:
 
 ```
 npm install typescript --save-dev
@@ -85,9 +84,9 @@ npm install typescript --save-dev
 
 ### Configurando o TypeScript:
 
-#### Após instalar o TypeScript precisaremos configura-lo, para isso criaremos um arquivo `tsconfig.json` dentro da pasta do projeto. 
+Após instalar o TypeScript precisaremos configura-lo, para isso criaremos um arquivo `tsconfig.json` dentro da pasta do projeto. 
 
-#### Com a ajuda de um editor de textos, de preferencia o Visual Studio Code iremos inserir os seguintes dados no arquivo:
+Com a ajuda de um editor de textos, de preferencia o Visual Studio Code iremos inserir os seguintes dados no arquivo:
 
 ```
 {
@@ -107,11 +106,11 @@ npm install typescript --save-dev
 
 ## Iniciando compilador TypeScript:
 
-#### O compilador vai ser responsável por verificar se nosso código TypeScript possui erros, e também irá traduzi-lo para JavaScript, já que os navegadores não conseguem utilizar diretamente o TypeScript. 
+O compilador vai ser responsável por verificar se nosso código TypeScript possui erros, e também irá traduzi-lo para JavaScript, já que os navegadores não conseguem utilizar diretamente o TypeScript. 
 
-#### Para utilizarmos o compilador temos que configurar um script de comando nas configurações do nosso servidor, que estão localizadas no arquivo `package.json`.
+Para utilizarmos o compilador temos que configurar um script de comando nas configurações do nosso servidor, que estão localizadas no arquivo `package.json`.
 
-#### Iremos nos preocupar apenas com o seguinte trecho, ao qual lista os nossos scripts de comando:
+Iremos nos preocupar apenas com o seguinte trecho, ao qual lista os nossos scripts de comando:
 
 ```
   "scripts": {
@@ -119,7 +118,7 @@ npm install typescript --save-dev
   },
 ```
 
-#### Iremos então configurar 2 comandos que serão responsáveis por executar o nosso compilador:
+Iremos então configurar 2 comandos que serão responsáveis por executar o nosso compilador:
 
 ```
   "scripts": {
@@ -133,8 +132,8 @@ npm install typescript --save-dev
 
 ## Últimos passos:
 
-#### Dentro da pasta do projeto vamos criar uma subpasta chamada `app` ( caso não exita ).
+Dentro da pasta do projeto vamos criar uma subpasta chamada `app` ( caso não exita ).
 
-#### Dentro de `app` iremos criar outra subpasta chamada `ts`, onde vamos criar nossos arquivos TypeScript usando a extensão `.ts`.
+Dentro de `app` iremos criar outra subpasta chamada `ts`, onde vamos criar nossos arquivos TypeScript usando a extensão `.ts`.
 
-#### Feito isso, tudo vai estar pronto para começar a programar em TypeScript!!
+Feito isso, tudo vai estar pronto para começar a programar em TypeScript!!
