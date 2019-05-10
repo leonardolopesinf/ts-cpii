@@ -132,7 +132,7 @@ Iremos então configurar 2 comandos que serão responsáveis por executar o noss
 
 ## Últimos passos:
 
-Dentro da pasta do projeto vamos criar uma subpasta chamada `app` ( caso não exita ).
+Dentro da pasta do projeto vamos criar uma subpasta chamada `app` ( caso não exista ).
 
 Dentro de `app` iremos criar outra subpasta chamada `ts`, onde vamos criar nossos arquivos TypeScript usando a extensão `.ts`.
 
