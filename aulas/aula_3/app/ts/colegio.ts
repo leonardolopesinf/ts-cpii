@@ -28,3 +28,13 @@ console.log(in204.listaAlunos());
 
 in303.adicionaAluno(leonardo);
 console.log(in303.listaAlunos());
+
+var leandro = new Faxineiro('Leandro', 30, 'HNMJU');
+console.log(leandro);
+
+leandro.mudarSalario(1200);
+console.log(leandro.salario);
+
+console.log(ygor.salario);
+ygor.mudarSalario(2500);
+console.log(ygor.salario);
