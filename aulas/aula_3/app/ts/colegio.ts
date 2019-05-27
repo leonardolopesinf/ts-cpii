@@ -29,12 +29,13 @@ console.log(in204.listaAlunos());
 in303.adicionaAluno(leonardo);
 console.log(in303.listaAlunos());
 
-var leandro = new Faxineiro('Leandro', 30, 'HNMJU');
-console.log(leandro);
+var leandro = new Faxineiro('Leandro', 30, 'HNMJU'); // Criando um novo Leandro.
+console.log(leandro); // Verificando se o faxineiro foi criado.
 
-leandro.mudarSalario(1200);
-console.log(leandro.salario);
+leandro.mudarSalario(1200); // Mudando salário de Leandro.
+console.log(leandro.salario); // Verificando novo salário.
 
-console.log(ygor.salario);
-ygor.mudarSalario(2500);
-console.log(ygor.salario);
+console.log(ygor.salario); // Verificando salário do professor Ygor.
+
+ygor.mudarSalario(2500); // Mudando salário do professor Ygor.
+console.log(ygor.salario); // Verificando novo salário.
