@@ -1,4 +1,4 @@
-# TypeScript - Aula 2 (11/04/2019)
+# TypeScript - Aula 3 (25/05/2019)
 
 ## Conteúdo da Aula:
 + Classes Abstratas.
